@@ -3,7 +3,7 @@
 
 #                                                 PROYECTO SHARK ATTACKS
 
-![shark_img](https://github.com/borjadola/Proyecto-Sharks_Attacks/assets/132678800/22ef5f38-36c6-4d34-8b28-389fff95026e)
+<img width="478" alt="Principal" src="https://github.com/borjadola/Proyecto-Sharks_Attacks/assets/132678800/054e9326-b4fd-4b4b-8815-f3a252e49448">
 
 
 
