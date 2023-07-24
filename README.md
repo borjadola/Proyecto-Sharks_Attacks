@@ -29,7 +29,7 @@ Para el planteamiento del proceso de limpieza de la base de datos se ha optado p
 
 - Posteriormente, y cuando ya teníamos una imagen más fiel de los datos de la columna, realizamos un tercer filtrado por los valores únicos de las strings y reducirlos al máximo posible, para finalmente hacer una agrupación de valores en conceptos generales y en las columnas que lo permitían.
 
-- Para finalizar la limpieza, se han fusionado columnas con otras que reflejaban el mismo tipo de valor, para aumentar así la cantidad de datos útiles por columna. Las filas con valores todos los valores nulos se han descartado y los restantes se han transformado en una string con el dato "no definido".
+- Para finalizar la limpieza, se han fusionado columnas con otras que reflejaban el mismo tipo de valor, para aumentar así la cantidad de datos útiles por columna. Las filas con todos los valores nulos se han descartado y los restantes se han transformado en una string con el dato "no definido".
 
 - Para la realización del análisis gráfico se han despreciado las columnas con información no relevante para el objetivo.
   
@@ -47,13 +47,13 @@ Observamos que durante la mañana es el intervalo de tiempo donde más ataques s
 
 REPRESENTACIÓN DE LOS ATAQUES POR EL TOP 5 DE ESPECIES Y EL INTERVALO DE TIEMPO EN EL QUE ATACAN.
 
-Teniendo en cuenta las especies más representativas en la base de datos. Observamos como el Tiburón Blanco es el animal con mayor número de ataques, y en general, los ataques se producen durante la mañana independientemente de la especie.
+Teniendo en cuenta las especies más representativas en la base de datos. Observamos como el Tiburón Blanco es el animal con mayor número de ataques, y en general, los ataques se producen durante la mañana, independientemente de la especie.
 
 ![Histo_ratio](https://github.com/borjadola/Proyecto-Sharks_Attacks/assets/132678800/706be1a5-f2cc-4906-98e1-ad842228d80d)
 
 RATIO DE MORTALIDAD.
 
-En este ratio podemos observar como, aunque el Tiburón Blanco es la especie con mayor número de ataques, la relación entre la mortalidad de sus ataques y la especie arrojan que el Tiburón Tigre es la especie con mayor mortalidad de todas.
+En este ratio podemos observar como, aunque el Tiburón Blanco es la especie con mayor número de ataques, la relación entre la mortalidad de sus ataques y la especie, arrojan que el Tiburón Tigre es la especie con mayor mortalidad de todas.
 
   
 
