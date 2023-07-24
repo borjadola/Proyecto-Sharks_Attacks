@@ -14,7 +14,7 @@ El objetivo de este proyecto es la aplicación de métodos de limpieza de bases 
 
 ## OBJETIVOS 
 
-Ver la relación que presentan las principales especies de tiburones y sus ataques durante un intervalo de tiempo,a sí como la mortalidad de estos ataques.
+Ver la relación que presentan las principales especies de tiburones y sus ataques durante un intervalo de tiempo, así como la mortalidad de estos ataques.
 
 
 ## PROCESO
