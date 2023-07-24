@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 
-#                                                 PROYECTO SHARK ATTACKS
+#                                                 PROYECTO SHARKS ATTACKS
 
 <img width="478" alt="Principal" src="https://github.com/borjadola/Proyecto-Sharks_Attacks/assets/132678800/054e9326-b4fd-4b4b-8815-f3a252e49448">
 
