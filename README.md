@@ -9,7 +9,7 @@
 
 ##  PROYECTO 
 
-El objetivo de este proyecto es la aplicación de métodos de limpieza de bases de datos con la biblioteca de pandas y realizar un análisis superficial de los datos. Para ello se han tenido una serie de condiciones automarcadas; no borrar columnas, no borra más filas que las duplicadas, en una franja de tiempo de 3 días completos.
+El objetivo de este proyecto es la aplicación de métodos de limpieza de bases de datos con la biblioteca de pandas y realizar un análisis superficial de los datos. Para ello se han tenido en cuenta una serie de condiciones automarcadas; no borrar columnas, no borra más filas que las duplicadas, en una franja de tiempo de 3 días completos.
 
 
 ## OBJETIVOS 
@@ -35,7 +35,25 @@ Para el planteamiento del proceso de limpieza de la base de datos se ha optado p
   
   En este objetivo se han realizado histogramas para visulizar el ataque de las especies y la franja horaria, así como un análisis de la mortalidad por especies y su ratio. A continuación se ve representado por imágenes.
 
-  https://raw.githubusercontent.com/borjadola/Proyecto-Sharks_Attacks/Master//Users/borja/IronHack/Proyecto-Sharks_Attacks/images
+![Histo_ataques-tiempo](https://github.com/borjadola/Proyecto-Sharks_Attacks/assets/132678800/abd19541-3dcc-4dab-b56c-673c3fb7191e)
+
+REPRESENTACIÓN DE LOS DATOS DE ATAQUES DE TIBURÓN POR INTERVALO DE TIEMPO EN UNA DÍA.
+
+Observamos que durante la mañana es el intervalo de tiempo donde más ataques se producen. También hay que tener en cuenta que probablemente sea el intervalo de tiempo dónde más personas realizan actividades en el mar.
+
+![Histo_ataques-especies](https://github.com/borjadola/Proyecto-Sharks_Attacks/assets/132678800/dfd21018-a2e7-48d5-82cd-134c8ef8cea5)
+
+![Histo_ataques-especies](https://github.com/borjadola/Proyecto-Sharks_Attacks/assets/132678800/2ce6ac1f-9b95-4fe9-8e30-168c9656cbd3)
+
+REPRESENTACIÓN DE LOS ATAQUES POR EL TOP 5 DE ESPECIES Y EL INTERVALO DE TIEMPO EN EL QUE ATACAN.
+
+Teniendo en cuenta las especies más representativas en la base de datos. Observamos como el Tiburón Blanco es el animal con mayor número de ataques, y en general, los ataques se producen durante la mañana independientemente de la especie.
+
+![Histo_ratio](https://github.com/borjadola/Proyecto-Sharks_Attacks/assets/132678800/706be1a5-f2cc-4906-98e1-ad842228d80d)
+
+RATIO DE MORTALIDAD.
+
+En este ratio podemos observar como, aunque el Tiburón Blanco es la especie con mayor número de ataques, la relación entre la mortalidad de sus ataques y la especie arrojan que el Tiburón Tigre es la especie con mayor mortalidad de todas.
 
   
 
